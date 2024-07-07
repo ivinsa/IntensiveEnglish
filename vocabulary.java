@@ -67,3 +67,37 @@ dictionary.put("while", "[waɪl] — в то время как");
 // Запрос GET получает данные с сервера, в то время как запрос POST отправляет данные на сервер. 
 // PUT используется для обновления существующих данных, а DELETE удаляет данные. 
 // Каждый запрос генерирует ответ от сервера, который может включать коды состояния, указывающие на результат запроса."
+
+
+// Урок 6
+dictionary.put("client", "[ˈklaɪənt] — клиент");
+dictionary.put("server", "[ˈsɜːrvər] — сервер");
+dictionary.put("database", "[ˈdeɪtəˌbeɪs] — база данных");
+dictionary.put("query", "[ˈkwɪri] — запрос");
+dictionary.put("retrieve", "[rɪˈtriːv] — извлекать");
+dictionary.put("store", "[stɔːr] — хранить");
+dictionary.put("update", "[ˈʌpˌdeɪt] — обновлять");
+dictionary.put("delete", "[dɪˈliːt] — удалять");
+dictionary.put("application", "[ˌæplɪˈkeɪʃən] — приложение");
+dictionary.put("process", "[ˈprɑːˌsɛs] — обрабатывать");
+dictionary.put("interact", "[ˌɪntərˈækt] — взаимодействовать");
+dictionary.put("data", "[ˈdeɪtə] — данные");
+dictionary.put("send", "[sɛnd] — отправлять");
+dictionary.put("response", "[rɪˈspɒns] — ответ");
+dictionary.put("display", "[dɪˈspleɪ] — отображать");
+dictionary.put("message", "[ˈmɛsɪʤ] — сообщение");
+dictionary.put("based on", "[beɪst ɑn] — на основе");
+dictionary.put("interaction", "[ˌɪntərˈækʃən] — взаимодействие");
+dictionary.put("forms", "[fɔrmz] — составляет");
+dictionary.put("backbone", "[ˈbækˌboʊn] — основа");
+dictionary.put("typical", "[ˈtɪpɪkəl] — типичный");
+dictionary.put("web application", "[wɛb ˌæplɪˈkeɪʃən] — веб-приложение");
+
+// Пример текста: 
+// "In a typical web application, a client makes a request to the server. The server then processes this request, often interacting with a database to retrieve, store, update, or delete data. 
+// The server sends a response back to the client, which can then display the data or a message based on the server's response. 
+// This interaction between client, server, and database forms the backbone of most web applications."
+// Перевод:
+// "В типичном веб-приложении клиент делает запрос к серверу. Сервер затем обрабатывает этот запрос, часто взаимодействуя с базой данных для извлечения, хранения, обновления или удаления данных. 
+// Сервер отправляет ответ обратно клиенту, который затем может отображать данные или сообщение на основе ответа сервера. 
+// Это взаимодействие между клиентом, сервером и базой данных составляет основу большинства веб-приложений."
