@@ -110,4 +110,34 @@ dictionary.put("web application", "[wɛb ˌæplɪˈkeɪʃən] — веб-при�
 // git commit -m "Add commit"
 // git push -u origin main 
 
-ddd
+// Урок 7
+dictionary.put("architecture", "[ˈɑːrkɪˌtɛkʧər] — архитектура");
+dictionary.put("layer", "[ˈleɪər] — уровень");
+dictionary.put("middleware", "[ˈmɪdəlˌwɛr] — промежуточное ПО");
+dictionary.put("scalability", "[ˌskeɪləˈbɪlɪti] — масштабируемость");
+dictionary.put("authentication", "[ɔˌθɛntɪˈkeɪʃən] — аутентификация");
+dictionary.put("logging", "[ˈlɔɡɪŋ] — логирование");
+dictionary.put("ensure", "[ɪnˈʃʊr] — обеспечивать");
+dictionary.put("increased", "[ɪnˈkriːst] — увеличенный");
+dictionary.put("load", "[loʊd] — нагрузка");
+dictionary.put("typically", "[ˈtɪpɪkəli] — обычно");
+dictionary.put("involves", "[ɪnˈvɑlvz] — включает");
+dictionary.put("multiple", "[ˈmʌltəpəl] — несколько");
+dictionary.put("interacts", "[ˌɪntəˈræks] — взаимодействует");
+dictionary.put("user", "[ˈjuːzər] — пользователь");
+dictionary.put("processes", "[ˈprɑːˌsɛsɪz] — обрабатывает");
+dictionary.put("requests", "[rɪˈkwɛsts] — запросы");
+dictionary.put("provides", "[prəˈvaɪdz] — предоставляет");
+dictionary.put("services", "[ˈsɜːrvəsɪz] — услуги");
+dictionary.put("such as", "[sʌʧ æz] — такие как");
+
+// Пример текста: 
+// "Web application architecture typically involves multiple layers. The client layer interacts with the user, while the server layer processes requests. 
+// Middleware can provide additional services such as authentication and logging. 
+// Scalability is an important aspect, ensuring the application can handle increased load."
+// Перевод:
+// "Архитектура веб-приложения обычно включает несколько уровней. Клиентский уровень взаимодействует с пользователем, в то время как серверный уровень обрабатывает запросы. 
+// Промежуточное ПО может предоставлять дополнительные услуги, такие как аутентификация и логирование. 
+// Масштабируемость является важным аспектом, обеспечивая возможность приложения справляться с увеличенной нагрузкой."
+
+
