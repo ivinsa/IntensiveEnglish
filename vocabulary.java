@@ -111,6 +111,7 @@ dictionary.put("web application", "[wɛb ˌæplɪˈkeɪʃən] — веб-при�
 // git push -u origin main 
 
 // Урок 7
+// Урок 7
 dictionary.put("architecture", "[ˈɑːrkɪˌtɛkʧər] — архитектура");
 dictionary.put("layer", "[ˈleɪər] — уровень");
 dictionary.put("middleware", "[ˈmɪdəlˌwɛr] — промежуточное ПО");
@@ -130,6 +131,12 @@ dictionary.put("requests", "[rɪˈkwɛsts] — запросы");
 dictionary.put("provides", "[prəˈvaɪdz] — предоставляет");
 dictionary.put("services", "[ˈsɜːrvəsɪz] — услуги");
 dictionary.put("such as", "[sʌʧ æz] — такие как");
+dictionary.put("important", "[ɪmˈpɔrtənt] — важный");
+dictionary.put("aspect", "[ˈæspɛkt] — аспект");
+dictionary.put("handle", "[ˈhændəl] — справляться");
+dictionary.put("increased load", "[ɪnˈkriːst loʊd] — увеличенная нагрузка");
+dictionary.put("additional", "[əˈdɪʃənl] — дополнительный");
+
 
 // Пример текста: 
 // "Web application architecture typically involves multiple layers. The client layer interacts with the user, while the server layer processes requests. 
