@@ -148,3 +148,28 @@ dictionary.put("additional", "[əˈdɪʃənl] — дополнительный")
 // Масштабируемость является важным аспектом, обеспечивая возможность приложения справляться с увеличенной нагрузкой."
 
 
+
+---
+services:
+  deluge:
+    image: lscr.io/linuxserver/deluge:latest
+    container_name: deluge
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+      - DELUGE_LOGLEVEL=error #optional
+    volumes:
+      - /path/to/deluge/config:/config
+      - /path/to/downloads:/downloads
+    ports:
+      - 8112:8112
+      - 6881:6881
+      - 6881:6881/udp
+      - 58846:58846 #optional
+    restart: unless-stopped
+
+addgroup -g 1000 -S nik && adduser -u 1000 -S nik -G nik
+id nik
+gid=1000(nik) groups=1000(nik), 1000(nik)
+http://193.124.24.30:9000/
