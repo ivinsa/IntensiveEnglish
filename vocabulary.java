@@ -148,6 +148,37 @@ dictionary.put("additional", "[əˈdɪʃənl] — дополнительный")
 // Масштабируемость является важным аспектом, обеспечивая возможность приложения справляться с увеличенной нагрузкой."
 
 
+// Урок 8
+dictionary.put("concurrency", "[kənˈkʌrənsi] — параллелизм");
+dictionary.put("thread", "[θrɛd] — поток");
+dictionary.put("synchronization", "[ˌsɪŋkrənaɪˈzeɪʃən] — синхронизация");
+dictionary.put("deadlock", "[ˈdɛdlɑk] — взаимная блокировка");
+dictionary.put("managing", "[ˈmænɪʤɪŋ] — управление");
+dictionary.put("multiple", "[ˈmʌltəpəl] — несколько");
+dictionary.put("crucial", "[ˈkruːʃəl] — решающее значение");
+dictionary.put("required", "[rɪˈkwaɪərd] — необходимый");
+dictionary.put("prevent", "[prɪˈvɛnt] — предотвращать");
+dictionary.put("conflicts", "[ˈkɑnflɪkts] — конфликты");
+dictionary.put("accessing", "[ˈæksɛsɪŋ] — обращающимися");
+dictionary.put("shared", "[ʃɛrd] — общие");
+dictionary.put("resources", "[ˈrisɔrsɪz] — ресурсы");
+dictionary.put("proper", "[ˈprɑpər] — должная");
+dictionary.put("occur", "[əˈkɜr] — возникать");
+dictionary.put("stuck", "[stʌk] — застревают");
+dictionary.put("waiting", "[ˈweɪtɪŋ] — ожидание");
+dictionary.put("each other", "[iʧ ˈʌðər] — друг друга");
+dictionary.put("indefinitely", "[ɪnˈdɛfənɪtli] — на неопределённый срок");
+
+// Пример текста: 
+// "In concurrent programming, managing multiple threads is crucial. Synchronization is required to prevent conflicts between threads accessing shared resources. 
+// Without proper synchronization, a deadlock can occur, where two or more threads are stuck waiting for each other indefinitely."
+// Перевод:
+// "В параллельном программировании управление несколькими потоками имеет решающее значение. Синхронизация необходима для предотвращения конфликтов между потоками, обращающимися к общим ресурсам. 
+// Без должной синхронизации может возникнуть взаимная блокировка, когда два или более потока застревают в ожидании друг друга на неопределённый срок."
+
+
+
+
 
 ---
 services:
