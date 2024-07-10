@@ -177,6 +177,29 @@ dictionary.put("indefinitely", "[ɪnˈdɛfənɪtli] — на неопредел�
 // Без должной синхронизации может возникнуть взаимная блокировка, когда два или более потока застревают в ожидании друг друга на неопределённый срок."
 
 
+// Урок 9
+dictionary.put("algorithm", "[ˈælɡəˌrɪðəm] — алгоритм");
+dictionary.put("data structure", "[ˈdeɪtə ˈstrʌkʧər] — структура данных");
+dictionary.put("complexity", "[kəmˈplɛksɪti] — сложность");
+dictionary.put("optimization", "[ˌɑptɪmɪˈzeɪʃən] — оптимизация");
+dictionary.put("procedure", "[prəˈsiʤər] — процедура");
+dictionary.put("solving", "[ˈsɑlvɪŋ] — решение");
+dictionary.put("problem", "[ˈprɑbləm] — проблема");
+dictionary.put("organize", "[ˈɔrɡəˌnaɪz] — организовать");
+dictionary.put("store", "[stɔr] — хранить");
+dictionary.put("efficiently", "[ɪˈfɪʃəntli] — эффективно");
+dictionary.put("determines", "[dɪˈtɜrmɪnz] — определяет");
+dictionary.put("performance", "[pərˈfɔrməns] — производительность");
+dictionary.put("techniques", "[tɛkˈniks] — техники");
+dictionary.put("improve", "[ɪmˈpruv] — улучшить");
+dictionary.put("efficiency", "[ɪˈfɪʃənsi] — эффективность");
+
+// Пример текста: 
+// "An algorithm is a step-by-step procedure for solving a problem. Data structures organize and store data efficiently. 
+// The complexity of an algorithm determines its performance. Optimization techniques can be applied to improve the efficiency of algorithms and data structures."
+// Перевод:
+// "Алгоритм — это пошаговая процедура решения проблемы. Структуры данных организуют и хранят данные эффективно. 
+// Сложность алгоритма определяет его производительность. Техники оптимизации могут применяться для улучшения эффективности алгоритмов и структур данных."
 
 
 
